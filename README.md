@@ -8,7 +8,7 @@ Minimal, responsive, open source email design for transactional user notificatio
 https://litmus.com/pub/319a9b4
 
 ## Credit ##
-Project by Fluent. Designed by Krasi Stoyanov
+Commissioned by Fluent. Design by Krasi Stoyanov
 
 ## Contact ##
 @fluentmsg | http://fluentmsg.com
