@@ -1,5 +1,5 @@
 {
-    "name": "fluent/musimal",
+    "name": "fivesqrd/fluent-musimal",
     "description": "Minimal, responsive, open source email design for transactional user notifications.",
     "minimum-stability": "dev",
     "autoload": {
