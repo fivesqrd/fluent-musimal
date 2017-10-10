@@ -8,7 +8,7 @@
         }
     },
     "suggest": {
-        "fluent/client": "Quick and easy message delivery with more advanced features"
+        "fivesqrd/fluent-client": "Quick and easy message delivery with more advanced features"
     },
     "authors": [
         {
