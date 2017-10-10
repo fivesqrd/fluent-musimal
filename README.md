@@ -1,7 +1,7 @@
 # Musimal
 Minimal, responsive, open source email design for transactional user notifications.
 
-![Mockup](https://github.com/fivesqrd/musimal/blob/master/Mockups/Responsive-Devices-Website.png "Responsive layout")
+![Mockup](https://github.com/fivesqrd/musimal/blob/master/mockups/Responsive-Devices-Website.png "Responsive layout")
 
 ## Litmus Tests
 

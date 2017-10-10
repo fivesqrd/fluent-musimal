@@ -1,0 +1,20 @@
+{
+    "name": "fluent/musimal",
+    "description": "Minimal, responsive, open source email design for transactional user notifications.",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fluent\\Theme\\": "src/"
+        }
+    },
+    "suggest": {
+        "fluent/client": "Quick and easy message delivery with more advanced features"
+    },
+    "authors": [
+        {
+            "name": "Christian Burger",
+            "email": "christian@fivesqrd.com",
+            "role": "Developer"
+        }
+    ]
+}
